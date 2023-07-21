@@ -9,7 +9,7 @@ import ec.edu.intsuperior.controlador.Controlador;
 
 /**
  *
- * @author Erik
+ * @author Jordan
  */
 public class Loggin extends javax.swing.JFrame {
 
