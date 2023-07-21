@@ -10,7 +10,7 @@ import ec.edu.intsuperior.vista.Loggin;
 
 /**
  *
- * @author Jhonatan
+ * @author Erik
  */
 public class Controlador {
     Loggin loggin= new Loggin(this);

@@ -9,7 +9,7 @@ import ec.edu.intsuperior.controlador.Controlador;
 
 /**
  *
- * @author Jhonatan
+ * @author Erik
  */
 public class Inicio extends javax.swing.JFrame {
 
